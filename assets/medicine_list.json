@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "name": "Paracetamol",
+    "type": "Pain Relief",
+    "description": "Relieves mild to moderate pain and reduces fever.",
+    "dosage": "Take 1-2 tablets every 4-6 hours.",
+    "price": "$4.99"
+  },
+  {
+    "id": 2,
+    "name": "Lisinopril",
+    "type": "Antihypertensive",
+    "description": "Treats high blood pressure and heart failure.",
+    "dosage": "Take one tablet daily.",
+    "price": "$12.49"
+  },
+  {
+    "id": 3,
+    "name": "Omeprazole",
+    "type": "Proton Pump Inhibitor",
+    "description": "Reduces stomach acid production, used for acid reflux.",
+    "dosage": "Take 1 capsule before meals.",
+    "price": "$8.99"
+  },
+  {
+    "id": 4,
+    "name": "Atorvastatin",
+    "type": "Statins",
+    "description": "Lowers cholesterol levels, reducing the risk of heart disease.",
+    "dosage": "Take one tablet at bedtime.",
+    "price": "$15.99"
+  },
+  {
+    "id": 5,
+    "name": "Salbutamol",
+    "type": "Bronchodilator",
+    "description": "Relieves asthma and chronic obstructive pulmonary disease (COPD) symptoms.",
+    "dosage": "Inhale 2 puffs every 4-6 hours as needed.",
+    "price": "$6.49"
+  },
+  {
+    "id": 6,
+    "name": "Metformin",
+    "type": "Antidiabetic",
+    "description": "Controls blood sugar levels in type 2 diabetes.",
+    "dosage": "Take with meals as prescribed.",
+    "price": "$9.99"
+  },
+  {
+    "id": 7,
+    "name": "Citalopram",
+    "type": "Antidepressant",
+    "description": "Treats depression and panic disorders.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$11.49"
+  },
+  {
+    "id": 8,
+    "name": "Ibuprofen",
+    "type": "Nonsteroidal Anti-Inflammatory Drug",
+    "description": "Reduces pain and inflammation.",
+    "dosage": "Take 1-2 tablets every 6-8 hours with food.",
+    "price": "$7.99"
+  },
+  {
+    "id": 9,
+    "name": "Montelukast",
+    "type": "Leukotriene Receptor Antagonist",
+    "description": "Used for asthma and allergic rhinitis.",
+    "dosage": "Take one tablet daily in the evening.",
+    "price": "$10.99"
+  },
+  {
+    "id": 10,
+    "name": "Fluoxetine",
+    "type": "Selective Serotonin Reuptake Inhibitor",
+    "description": "Treats depression, obsessive-compulsive disorder, and panic disorder.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$13.99"
+  },
+  {
+    "id": 11,
+    "name": "Azithromycin",
+    "type": "Antibiotic",
+    "description": "Treats various bacterial infections.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$17.99"
+  },
+  {
+    "id": 12,
+    "name": "Ranitidine",
+    "type": "Histamine H2 Receptor Antagonist",
+    "description": "Reduces stomach acid production, used for ulcers and heartburn.",
+    "dosage": "Take 1-2 tablets twice daily.",
+    "price": "$9.49"
+  },
+  {
+    "id": 13,
+    "name": "Diazepam",
+    "type": "Benzodiazepine",
+    "description": "Relieves anxiety and muscle spasms.",
+    "dosage": "Take as prescribed for anxiety or muscle spasms.",
+    "price": "$14.99"
+  },
+  {
+    "id": 14,
+    "name": "Warfarin",
+    "type": "Anticoagulant",
+    "description": "Prevents blood clots.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$11.99"
+  },
+  {
+    "id": 15,
+    "name": "Clopidogrel",
+    "type": "Antiplatelet Agent",
+    "description": "Reduces the risk of heart attack and stroke.",
+    "dosage": "Take 1 tablet daily with or without food.",
+    "price": "$16.49"
+  },
+  {
+    "id": 16,
+    "name": "Ciprofloxacin",
+    "type": "Fluoroquinolone Antibiotic",
+    "description": "Treats bacterial infections.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$12.99"
+  },
+  {
+    "id": 17,
+    "name": "Amlodipine",
+    "type": "Calcium Channel Blocker",
+    "description": "Treats high blood pressure and chest pain (angina).",
+    "dosage": "Take one tablet daily.",
+    "price": "$8.49"
+  },
+  {
+    "id": 18,
+    "name": "Alprazolam",
+    "type": "Benzodiazepine",
+    "description": "Treats anxiety and panic disorders.",
+    "dosage": "Take as prescribed for anxiety or panic attacks.",
+    "price": "$15.99"
+  },
+  {
+    "id": 19,
+    "name": "Hydrochlorothiazide",
+    "type": "Diuretic",
+    "description": "Reduces fluid retention and treats high blood pressure.",
+    "dosage": "Take one tablet daily in the morning.",
+    "price": "$9.99"
+  },
+  {
+    "id": 20,
+    "name": "Sertraline",
+    "type": "Selective Serotonin Reuptake Inhibitor",
+    "description": "Treats depression, obsessive-compulsive disorder, and panic disorder.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$13.49"
+  },
+  {
+    "id": 21,
+    "name": "Naproxen",
+    "type": "Nonsteroidal Anti-Inflammatory Drug",
+    "description": "Used for pain relief and inflammation.",
+    "dosage": "Take 1-2 tablets every 12 hours with food.",
+    "price": "$8.99"
+  },
+  {
+    "id": 22,
+    "name": "Levothyroxine",
+    "type": "Thyroid Hormone",
+    "description": "Treats underactive thyroid (hypothyroidism).",
+    "dosage": "Take one tablet daily in the morning.",
+    "price": "$10.49"
+  },
+  {
+    "id": 23,
+    "name": "Risperidone",
+    "type": "Antipsychotic",
+    "description": "Treats schizophrenia and bipolar disorder.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$14.99"
+  },
+  {
+    "id": 24,
+    "name": "Methotrexate",
+    "type": "Disease-Modifying Antirheumatic Drug",
+    "description": "Used for rheumatoid arthritis and certain types of cancer.",
+    "dosage": "Take once a week as prescribed.",
+    "price": "$16.99"
+  },
+  {
+    "id": 25,
+    "name": "Hydrocodone",
+    "type": "Opioid Analgesic",
+    "description": "Used for moderate to severe pain relief.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$19.99"
+  },
+  {
+    "id": 26,
+    "name": "Losartan",
+    "type": "Angiotensin II Receptor Blocker",
+    "description": "Treats high blood pressure and reduces the risk of stroke.",
+    "dosage": "Take one tablet daily.",
+    "price": "$11.49"
+  },
+  {
+    "id": 27,
+    "name": "Doxycycline",
+    "type": "Tetracycline Antibiotic",
+    "description": "Treats bacterial infections and acne.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$7.99"
+  },
+  {
+    "id": 28,
+    "name": "Carvedilol",
+    "type": "Beta-Blocker",
+    "description": "Treats heart failure and high blood pressure.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$12.99"
+  },
+  {
+    "id": 29,
+    "name": "Prednisone",
+    "type": "Corticosteroid",
+    "description": "Reduces inflammation and suppresses the immune system.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$9.49"
+  },
+  {
+    "id": 30,
+    "name": "Metoprolol",
+    "type": "Beta-Blocker",
+    "description": "Treats high blood pressure and angina.",
+    "dosage": "Take one tablet daily.",
+    "price": "$8.49"
+  },
+  {
+    "id": 31,
+    "name": "Furosemide",
+    "type": "Loop Diuretic",
+    "description": "Treats fluid retention (edema) and high blood pressure.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$7.49"
+  },
+  {
+    "id": 32,
+    "name": "Cephalexin",
+    "type": "Cephalosporin Antibiotic",
+    "description": "Treats bacterial infections.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$13.49"
+  },
+  {
+    "id": 33,
+    "name": "Venlafaxine",
+    "type": "Serotonin-Norepinephrine Reuptake Inhibitor",
+    "description": "Treats depression and anxiety disorders.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$15.99"
+  },
+  {
+    "id": 34,
+    "name": "Candesartan",
+    "type": "Angiotensin II Receptor Blocker",
+    "description": "Treats high blood pressure.",
+    "dosage": "Take one tablet daily.",
+    "price": "$10.99"
+  },
+  {
+    "id": 35,
+    "name": "Bupropion",
+    "type": "Atypical Antidepressant",
+    "description": "Treats depression and seasonal affective disorder.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$11.99"
+  },
+  {
+    "id": 36,
+    "name": "Clonazepam",
+    "type": "Benzodiazepine",
+    "description": "Treats seizures and panic disorder.",
+    "dosage": "Take as prescribed by your healthcare provider.",
+    "price": "$14.99"
+  },
+  {
+    "id": 37,
+    "name": "Escitalopram",
+    "type": "Selective Serotonin Reuptake Inhibitor",
+    "description": "Treats depression and generalized anxiety disorder.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$13.99"
+  },
+  {
+    "id": 38,
+    "name": "Quetiapine",
+    "type": "Atypical Antipsychotic",
+    "description": "Treats bipolar disorder and schizophrenia.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$18.49"
+  },
+  {
+    "id": 39,
+    "name": "Gabapentin",
+    "type": "Anticonvulsant",
+    "description": "Treats seizures and nerve pain.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$9.99"
+  },
+  {
+    "id": 40,
+    "name": "Amitriptyline",
+    "type": "Tricyclic Antidepressant",
+    "description": "Treats depression and chronic pain.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$12.49"
+  },
+  {
+    "id": 41,
+    "name": "Hydralazine",
+    "type": "Vasodilator",
+    "description": "Treats high blood pressure.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$9.99"
+  },
+  {
+    "id": 42,
+    "name": "Duloxetine",
+    "type": "Serotonin-Norepinephrine Reuptake Inhibitor",
+    "description": "Treats depression and anxiety disorders.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$15.99"
+  },
+  {
+    "id": 43,
+    "name": "Spironolactone",
+    "type": "Diuretic",
+    "description": "Treats fluid retention (edema) and high blood pressure.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$11.49"
+  },
+  {
+    "id": 44,
+    "name": "Tamsulosin",
+    "type": "Alpha-Blocker",
+    "description": "Treats symptoms of an enlarged prostate.",
+    "dosage": "Take one capsule daily.",
+    "price": "$13.99"
+  },
+  {
+    "id": 45,
+    "name": "Mirtazapine",
+    "type": "Atypical Antidepressant",
+    "description": "Treats depression and anxiety.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$12.99"
+  },
+  {
+    "id": 46,
+    "name": "Amlodipine",
+    "type": "Calcium Channel Blocker",
+    "description": "Treats high blood pressure and chest pain (angina).",
+    "dosage": "Take one tablet daily.",
+    "price": "$8.49"
+  },
+  {
+    "id": 47,
+    "name": "Fluconazole",
+    "type": "Antifungal Medication",
+    "description": "Treats fungal infections.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$7.99"
+  },
+  {
+    "id": 48,
+    "name": "Clozapine",
+    "type": "Atypical Antipsychotic",
+    "description": "Treats severe schizophrenia.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$18.99"
+  },
+  {
+    "id": 49,
+    "name": "Esomeprazole",
+    "type": "Proton Pump Inhibitor",
+    "description": "Reduces stomach acid production.",
+    "dosage": "Take 1 capsule before meals.",
+    "price": "$14.49"
+  },
+  {
+    "id": 50,
+    "name": "Pregabalin",
+    "type": "Anticonvulsant",
+    "description": "Treats nerve pain and seizures.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$16.99"
+  },
+  {
+    "id": 51,
+    "name": "Simvastatin",
+    "type": "Statins",
+    "description": "Lowers cholesterol levels.",
+    "dosage": "Take one tablet in the evening.",
+    "price": "$11.99"
+  },
+  {
+    "id": 52,
+    "name": "Citalopram",
+    "type": "Selective Serotonin Reuptake Inhibitor",
+    "description": "Treats depression and panic disorders.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$10.99"
+  },
+  {
+    "id": 53,
+    "name": "Lorazepam",
+    "type": "Benzodiazepine",
+    "description": "Treats anxiety disorders.",
+    "dosage": "Take as prescribed by your healthcare provider.",
+    "price": "$13.49"
+  },
+  {
+    "id": 54,
+    "name": "Ceftriaxone",
+    "type": "Third-generation Cephalosporin Antibiotic",
+    "description": "Treats bacterial infections.",
+    "dosage": "Administered by a healthcare professional.",
+    "price": "$19.99"
+  },
+  {
+    "id": 55,
+    "name": "Allopurinol",
+    "type": "Xanthine Oxidase Inhibitor",
+    "description": "Prevents gout attacks.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$8.99"
+  },
+  {
+    "id": 56,
+    "name": "Hydroxyzine",
+    "type": "Antihistamine",
+    "description": "Treats itching and anxiety.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$7.49"
+  },
+  {
+    "id": 57,
+    "name": "Metoclopramide",
+    "type": "Prokinetic Agent",
+    "description": "Treats nausea and vomiting.",
+    "dosage": "Take 30 minutes before meals and at bedtime.",
+    "price": "$12.49"
+  },
+  {
+    "id": 58,
+    "name": "Aripiprazole",
+    "type": "Atypical Antipsychotic",
+    "description": "Treats schizophrenia and bipolar disorder.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$17.49"
+  },
+  {
+    "id": 59,
+    "name": "Isosorbide Mononitrate",
+    "type": "Nitrate",
+    "description": "Treats angina (chest pain).",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$9.99"
+  },
+  {
+    "id": 60,
+    "name": "Levetiracetam",
+    "type": "Anticonvulsant",
+    "description": "Treats seizures.",
+    "dosage": "Take as directed by your healthcare provider.",
+    "price": "$15.99"
+  }
+]
